@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 #use FindBin;
-use lib ("/home/qli/tool/trinityrnaseq-2.0.5/PerlLib");
+use lib ("trinityrnaseq-2.0.5/PerlLib");
 use Fasta_reader;
 use Data::Dumper;
 
